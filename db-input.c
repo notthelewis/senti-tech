@@ -79,7 +79,7 @@ int main(int argc, char const *argv[])
 	char token[token_len];
 
 	/* Connect to MySQL, if not, fail with error. */
-	if (mysql_real_connect(mysql, "localhost", "ldawg", "BethandHeidi99*",
+	if (mysql_real_connect(mysql, "localhost", "lewis", "TotallyUnsafeMethodThisWillChange",
 	 NULL, 0, NULL, 0) == NULL) {
 		fprintf(stderr, "%s\n",mysql_error(mysql));
 		mysql_close(mysql);
