@@ -1,5 +1,5 @@
-# sent-tech
-4 module example for sent-tech
+# senti-tech
+4 module example for senti-tech
 
 
 The 4 modules I have selected to build are:
