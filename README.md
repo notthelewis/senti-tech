@@ -13,4 +13,6 @@ The 4 modules I have selected to build are:
  then sudo ./init.sh 
  
  This is designed for a clean installation of Mosquitto and MySQL, if an existing installation exists- please use a clean system.
+ The script is also built for Ubuntu/Debian using Bash. In a production system, I would modify this to run on CentOS. 
  
+ I built on Ubuntu as this is the OS of my Dev machine.
