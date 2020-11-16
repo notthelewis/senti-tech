@@ -17,4 +17,4 @@ The 4 modules I have selected to build are:
  
  I built on Ubuntu as this is the OS of my Dev machine.
 
-**The project will NOT work on Windows or Mac. It will work on Debian-based distros such as Ubuntu or Mint.
+**The project will NOT work on Windows or Mac. It will work as-is on Debian-based distros such as Ubuntu or Mint... But will require additional config for other distros.
