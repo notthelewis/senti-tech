@@ -16,3 +16,5 @@ The 4 modules I have selected to build are:
  The script is also built for Ubuntu/Debian using Bash. In a production system, I would modify this to run on CentOS. 
  
  I built on Ubuntu as this is the OS of my Dev machine.
+
+**The project will NOT work on Windows or Mac. It will work on Debian-based distros such as Ubuntu or Mint.
